@@ -1,0 +1,23 @@
+footer{
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    width: 500px;
+}
+.foot{
+    display: grid;
+    grid-template-areas: "foot";
+    grid-template-columns: 1fr;
+	grid-template-rows: 2rem;
+	height: 100%;
+    width: 500px;
+    font-size: medium;
+    background-color: rgb(192, 30, 62);
+    color: white;
+}
+.foot p{
+    font-size: .4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

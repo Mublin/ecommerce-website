@@ -1,0 +1,2 @@
+// "test": "react-scripts start",
+"nodemon --watch backend --exec babel-node backend/server.js"

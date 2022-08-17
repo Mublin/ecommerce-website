@@ -1,0 +1,62 @@
+#a4{
+    height: 500px;
+    width: auto;
+    background-image: url('https://guardian.ng/wp-content/uploads/2021/08/Kano-1-1062x598.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* #a2{
+    width: 800px;
+    height: 500px;
+    text-align: center;
+    margin: 20px auto;
+    inline-size: 700px;
+    overflow-wrap: break-word;
+    box-shadow:  0px 0px 18px #ccc;
+}
+ 
+ .patterns {
+    width: 100%;
+    height: 100vh;
+    inline-size: 300px;
+    overflow-wrap: break-word;
+ }
+ 
+ 
+ svg{
+    inline-size: 800px;
+    overflow-wrap: break-word;
+    align-items: center;
+    justify-content: center;
+ }
+ .texting{
+    inline-size: 300px;
+    overflow-wrap: break-word;
+ }
+ svg p {
+    overflow-wrap: break-word;
+    font-family: Lora;
+    letter-spacing: 10px;
+    stroke: #ffa5d8;
+    font-size: 40px;
+    font-weight: 400px;
+    stroke-width: 3;
+    box-sizing: border-box;
+    
+    animation: textAnimate 3s infinite alternate;
+    
+ }
+ 
+ @keyframes textAnimate {
+   0% {
+     stroke-dasharray: 0 50%;
+     stroke-dashoffset:  20%;
+     fill:hsl(189, 68%, 75%)
+ 
+   }
+   
+ 
+ } */
+ 
+ 
+ 

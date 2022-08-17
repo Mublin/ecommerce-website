@@ -1,0 +1,45 @@
+.form{
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding:  4px;
+    border: .7px #c0c0c0 solid;
+    border-radius: .9px;
+    list-style-type: none;
+}
+.form-container li{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3px;
+}
+input{
+    padding: 3px;
+    border: .4px #c0c0c0 solid;
+    border-radius: .7px;
+}
+.button-fullwidth{
+    background-color: #808080;
+}
+.product-header{
+   display: flex;
+   justify-content: space-between;
+   align-self: flex-start; 
+}
+.product-margined{
+    margin: 2.5px;
+}
+.table{
+    width: 100%;
+}
+th{
+    text-align: left;
+}
+tbody:nth-child(odd){
+    background-color: #f0f0f0;
+}

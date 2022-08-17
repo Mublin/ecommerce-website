@@ -1,0 +1,16 @@
+/* checkoutsteps */
+CheckoutSteps{
+    display: flex;
+    justify-content: space-between;
+    width: 60px;
+    margin: 3 auto;
+  }
+  CheckoutSteps > div{
+    border-top: .6px #c0c0c0 solid;
+    color: #c0c0c0;
+    flex: 1 1;
+  }
+  CheckoutSteps > div.active{
+    border: .5px #f08000 solid;
+    color: #f08000;
+  }
